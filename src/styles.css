@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 2em;
+  margin: 4em;
 }
 
 body, input[type="text"], button {
@@ -15,6 +15,7 @@ h1 {
   color: #369;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
+  text-align: center;
 }
 
 h2, h3 {
